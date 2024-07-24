@@ -1,0 +1,90 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+# Add the numbers
+result = num1 + num2
+
+# Print the result
+print("The sum is:", result)
+
+# Check if a number is even
+num = int(input("Enter a number to check if it's even: "))
+if num % 2 == 0:
+    print(num, "is even")
+else:
+    print(num, "is odd")
+Here's a breakdown of what's happening:
+
+The code uses the input() function to get two numbers from the user.
+The int() function is used to convert the user input into integers.
+The + operator is used to add the two numbers together and store the result in the result variable.
+The print() function is used to print the result.
+The code then uses an if statement to check if a number is even. The % operator is used to find the remainder of the number divided by 2. If the remainder is 0, the number is even, otherwise it's odd.
+You can run this code and enter different numbers to see how it works!
+
+Note: This code assumes that the user will enter valid integers. If you want to handle invalid input (e.g. non-integer values), you can use try-except blocks and error handling techniques.
+
+Copy
+Search Web
+Summarize
+Delete
+
+Chat with AI...
+Go
+Chat Mode
+Choose your Chat Mode
+
+Chat History
+Rename your current chat here
+New Title
+Rename
+Learn more about AI:
+What is AI
+Explore different AI Chat Modes:
+Chat with AI Characters!
+AI Text Generator
+Math AI
+AI Debate
+AI Drunk Friend
+AI Poem Generator
+Translate
+AI Comedian
+AI Storyteller
+Free ChatGPT
+ChatGPT Alternative
+GPT Chat
+AI Relationship Coach
+AI Proofreader
+See more
+Learn more about AI Chat:
+What is Genius Mode?
+It is an enhanced version of AI Chat that provides more knowledge, fewer errors, improved reasoning skills, better verbal fluidity, and an overall superior performance. Due to the larger AI model, Genius Mode is only available via subscription to DeepAI Pro. However, the added benefits often make it a worthwhile investment.
+
+What is Online Mode?
+It is an add on that enables AI Chat to browse the web for real-time information. It is a great way to learn new things and explore new topics. Sign in to your DeepAI account (no subscription required!) to gain access to this feature.
+
+Ideas for Chatting with the AI
+- Can you describe the concept of relativity to me in layman's terms?
+- What are some unique and entertaining ways to celebrate a friend's anniversary?
+- Could you walk me through how to use loops in Python?
+
+Strengths
+- Can recall information from previous conversations to provide personalized responses.
+- Allows users to correct any misunderstandings or errors in the previous interaction.
+- Is programmed to refuse inappropriate or harmful requests.
+
+Weaknesses
+- Can occasionally provide incorrect information due to limitations in its training data or understanding.
+- May inadvertently provide instructions or suggestions that are harmful or biased without realizing it.
+- Limited knowledge of current events and developments beyond the training data cutoff of 2021.
+
+flops
+Deep AI, Inc. ©
+
+Contact
+Press
+Legal
+xlogo
+linkedinlogo
+
+
